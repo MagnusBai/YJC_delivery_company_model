@@ -1,4 +1,4 @@
-# YJC: a quickly response and routinely solving COMMUNICATION MODEL
+# YJC: a quick response and routine solving COMMUNICATION MODEL
 
 
 ## general idea
