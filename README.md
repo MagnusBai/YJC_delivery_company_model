@@ -1,4 +1,4 @@
-# YJC: a quick response and routine solving COMMUNICATION MODEL
+# YJC: a quick response and routine solving MESSAGING PATTERN
 
 
 ## general idea
@@ -7,7 +7,7 @@ Imagine your website has to receive some user's request, but solving of his requ
 
 It is a good choice to reply at once and put request into a TODO-message-queue, in which, every task of the request would be tackled routinely.
 
-I have few experience in WSGI and Web Communication model, so I write this quick and dirty implementation for PokeStar.
+I have few experience in WSGI and messaging pattern, so I write this quick and dirty implementation for PokeStar.
 
 
 ------
